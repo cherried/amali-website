@@ -344,37 +344,37 @@ I replaced my morning coffee with Amali two weeks ago and I feel amazing. Not on
               </div>
             </Link>
 
-            <div className="bg-white rounded-lg shadow-md overflow-hidden">
+            <Link href="/articles/amali-vs-competitors" className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow group">
               <img
                 src="/amali_comparison_final.png"
                 alt="Why Amali Is Better Than Coffee, Celsius, or Red Bull"
                 className="w-full h-80 object-cover"
               />
               <div className="p-4">
-                <h3 className="font-semibold text-gray-900 mb-2 text-sm">
+                <h3 className="font-semibold text-gray-900 mb-2 text-sm group-hover:text-amali-blue-900 transition-colors">
                   Why Amali Is Better Than Coffee, Celsius, or Red Bull
                 </h3>
                 <p className="text-xs text-gray-600 hidden">
                   Tired of caffeine crashes and synthetic stimulants? Discover why Amali's botanical energy blend is a cleaner, smarter alternative to traditional energy drinks.
                 </p>
               </div>
-            </div>
+            </Link>
 
-            <div className="bg-white rounded-lg shadow-md overflow-hidden">
+            <Link href="/articles/euphoric-energy" className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow group">
               <img
                 src="/euphoric_energy_article_image.png"
                 alt="What Is Euphoric Energy? The Future of Focus, Mood, and Motivation in One Drink"
                 className="w-full h-80 object-cover"
               />
               <div className="p-4">
-                <h3 className="font-semibold text-gray-900 mb-2 text-sm">
+                <h3 className="font-semibold text-gray-900 mb-2 text-sm group-hover:text-amali-blue-900 transition-colors">
                   What Is Euphoric Energy? The Future of Focus, Mood, and Motivation in One Drink
                 </h3>
                 <p className="text-xs text-gray-600 hidden">
                   What if your energy drink didn't just wake you up—but actually made you feel good? Discover the science of euphoric energy and why Amali is leading the movement.
                 </p>
               </div>
-            </div>
+            </Link>
           </div>
         </div>
       </section>
